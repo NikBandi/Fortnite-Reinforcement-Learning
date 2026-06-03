@@ -21,6 +21,9 @@ Training runs entirely in real-time against a live Fortnite session. Each episod
 | `main.py` | Screen capture, reward detection, input sending |
 | `train.py` | Entry point — instantiates and runs training |
 
+### Sandbox
+Download the Unreal Engine sandbox here: [Unreal Editor for Fortnite Files](https://drive.google.com/drive/folders/1H9b3r9ircYu-sggMKcrHAahq1LD_Hn6J?usp=sharing)
+
 ### Network
 
 A shared-trunk ActorCritic with two heads:
